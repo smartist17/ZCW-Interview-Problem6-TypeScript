@@ -1,0 +1,11 @@
+@import "~bootstrap/dist/css/bootstrap.css";
+@import "~font-awesome/css/font-awesome.css";
+
+.container {
+  margin-top: 15%;
+}
+
+.fa{
+  font-size: 50px;
+
+}
